@@ -1,4 +1,4 @@
-# BEM VINDO 🖕
+# SEJA BEM VINDO(A)! 🤝
 
 # SSH-PLUS
 
@@ -8,7 +8,7 @@
 
 
 # Modo de instalação
-# 👇👽👍
+# 👇😎👍
 Só joga na máquina e deixar instalar
 
 • atualiza sistema
