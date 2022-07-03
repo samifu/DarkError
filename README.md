@@ -20,3 +20,4 @@ Só joga na máquina e deixar instalar
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/JeanRocha91x/SSHPLUS/main/ssh-plus)
 
 ```
+https://prnt.sc/tJ7_k5tfg6HT
