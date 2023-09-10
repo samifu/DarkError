@@ -1,21 +1,22 @@
-# SEJA BEM VINDO(A)! 🤝
+# WELCOME! 🤝
 
 # SSH-PLUS
 
 # @swittecnologia
 
-*PROJETO EM ANDAMENTO...
+*PROJECT IN PROGRESS...
 
-
-# Modo de instalação
+# Installation Mode
 # 👇😎👍
-Só joga na máquina e deixar instalar
+Just run it on your machine and let it install
 
-• atualiza sistema
+• update system
 
-• desativa Ipv6
+• disable IPv6
 
-• instala recursos e o script
+• install resources and the script
+
+
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/JeanRocha91x/SSHPLUS/main/ssh-plus)
 
